@@ -8,4 +8,5 @@
   
   
 👨‍💻 27 Years old Developer  
-🚧 **Current Project:** [my-site](https://github.com/WinterChenS/my-site)
+:camera: I like photography
+:computer: Need a New Job
