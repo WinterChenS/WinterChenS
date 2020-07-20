@@ -8,5 +8,4 @@
   
   
  👨‍💻 27 Years old Java Developer                             
- :earth_asia: I`m in Hangzhou                         
- :computer: Need a New Job                                
+ :earth_asia: I`m in Hangzhou                                       
