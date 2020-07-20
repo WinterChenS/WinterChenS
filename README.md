@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=WinterChenS&show_icons=true">
+<a href="https://github.com/WinterChenS"><img align='right' src="https://github-readme-stats.vercel.app/api?username=WinterChenS&show_icons=true"></a>
 
 ### Hi there I'm Winter :snowflake:
 
