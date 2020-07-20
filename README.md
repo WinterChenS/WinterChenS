@@ -8,7 +8,5 @@
   
   
 👨‍💻 27 Years old Java Developer  
-
 :camera: I like photography
-
 :computer: Need a New Job
