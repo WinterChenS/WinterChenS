@@ -7,6 +7,8 @@
 [![i@winterchen.com](https://img.shields.io/badge/i%40winterchen.com-%20-orange?logo=gmail)](mailto:i@winterchen.com)
   
   
-👨‍💻 27 Years old Developer  
+👨‍💻 27 Years old Java Developer  
+
 :camera: I like photography
+
 :computer: Need a New Job
