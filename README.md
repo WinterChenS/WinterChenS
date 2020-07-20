@@ -2,9 +2,9 @@
 
 ### Hi there I'm Winter :snowflake:
 
-[![blog.winterchen.com](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://blog.winterchen.com)
-[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/lucafluri/)
-[![i@winterchen.com](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:i@winterchen.com)
+[![Blog](https://img.shields.io/badge/blog.winterchen-%20-yellow)](https://blog.winterchen.com)
+[![Photos](https://img.shields.io/badge/%20Photography-%20-blue?logo=Pivotal Tracker)](https://photo.winterchen.com)
+[![i@winterchen.com](https://img.shields.io/badge/i%40winterchen.com-%20-orange?logo=gmail)](mailto:i@winterchen.com)
   
   
 👨‍💻 27 Years old Developer  
