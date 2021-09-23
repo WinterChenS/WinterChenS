@@ -7,8 +7,6 @@
 [![i@winterchen.com](https://img.shields.io/badge/i%40winterchen.com-%20-orange?logo=gmail)](mailto:i@winterchen.com)
 [![Folio](https://img.shields.io/badge/Folio-%20-orange?logo=fandango)](https://folio.winterchen.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterChenS&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  
   
  👨‍💻 28 Years old Java Developer                             
  :earth_asia: I`m in Hangzhou 
