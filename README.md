@@ -10,6 +10,5 @@
   
  👨‍💻 28 Years old Java Developer                             
  :earth_asia: I`m in Hangzhou 
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WinterChenS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=WinterChenS&layout=compact" alt="WinterChenS" />
 
