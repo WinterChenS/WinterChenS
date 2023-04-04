@@ -14,8 +14,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v2.5.2
       - uses: zonemeen/netease-recent-actions@v1.0.31
         with:
           id: '109096287'
