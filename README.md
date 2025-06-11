@@ -11,4 +11,4 @@
  👨‍💻 30 Years old Java Developer                             
  :earth_asia: I`m in Hangzhou
 
-[](https://github.com/WinterChenS/WinterChenS/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/WinterChenS/WinterChenS/blob/output/github-contribution-grid-snake.svg)
