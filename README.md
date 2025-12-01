@@ -2,7 +2,7 @@
 
 ### Hi there I'm Winter :snowflake:
 
-[![Blog](https://img.shields.io/badge/blog.winterchen-%20-yellow?logo=bloglovin)](https://www.662661.xyz)
+[![Blog](https://img.shields.io/badge/blog.winterchen-%20-yellow?logo=bloglovin)](https://blog.662661.xyz)
 
   
  👨‍💻 30 Years old Java Developer                             
