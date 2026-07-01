@@ -1,4 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=WinterChenS&show_icons=true&theme=gotham" alt="WinterChenS" />
 
 ### Hi there I'm Winter :snowflake:
 
